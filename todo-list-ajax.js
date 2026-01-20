@@ -1,4 +1,4 @@
-const API_KEY = "todo-items";
+const API_KEY = "todo-lists";
 
 // Simulated AJAX fetch
 function fetchTodos() {
