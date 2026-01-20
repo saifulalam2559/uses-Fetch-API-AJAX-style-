@@ -54,4 +54,3 @@ function removeTodo(index) {
 
 // Initial load
 fetchTodos().then(renderTodos);
-
